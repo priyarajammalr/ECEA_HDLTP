@@ -38,6 +38,8 @@ module bit_full_adder_tb;
     
 endmodule : bit_full_adder_tb
 
+## Using Verilog,the implementation of 2-bit adder is done.
+
 
 ##SIMULATION IMAGES:
 ![](https://user-images.githubusercontent.com/115354310/195994807-28a136ef-54b2-4207-b835-3e6832603392.jpeg)
